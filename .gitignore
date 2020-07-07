@@ -1,9 +1,13 @@
 # macOS init
-*/.DS_Store
+*.DS_Store
 
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## Unit Tests
+PentaZen iOSTests/
+PentaZen iOSUITests/
 
 ## User settings
 xcuserdata/
